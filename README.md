@@ -21,7 +21,6 @@
         <stop offset="0" stop-color="#00ff37"/> <!-- Red color -->
         <stop offset="1" stop-color="#00ff37" stop-opacity="0.0"/>
     </radialGradient>
-
     <radialGradient id="e" cx="0" cy="0" gradientTransform="matrix(0 314 -314 0 358.898 76.591)"  gradientUnits="userSpaceOnUse" r="1">
         <stop offset="0" stop-color="#ff00c8"/> <!-- Red color -->
         <stop offset="1" stop-color="#ff00c8" stop-opacity="0.0"/>
