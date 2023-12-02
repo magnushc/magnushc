@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+This is what it look like when propeller spinning at
+<svg width="120" height="120">
+  <g transform="translate(0 30)">
+    <rect fill="red" width="120" height="60" rx="60" ry="30" >
+          <animateTransform attributeName="transform"
+                          type="rotate"
+                          from="0 60 30"
+                          to="360 60 30"
+                          dur="0.0059998800024"
+                          repeatCount="indefinite"/>
+    </rect>
+    <rect fill="blue" width="120" height="60" rx="60" ry="30" >
+      <animateTransform attributeName="transform"
+                        type="rotate"
+                        from="90 60 30"
+                        to="450 60 30"
+                        dur="0.0059998800024"
+                        repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="25%" y="10%">10 000 RPM</text>
+  <text x="75%" y="90%">11 N</text>
+</svg>
+
 <svg fill="none" height="1141" viewBox="0 0 1288 1141" width="1288" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <radialGradient id="a" cx="0" cy="0" gradientTransform="matrix(0 456 -456 0 587.129 684.461)" gradientUnits="userSpaceOnUse" r="1">
         <stop offset="0" stop-color="#00f"/> <!-- Blue color -->
