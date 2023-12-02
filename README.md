@@ -33,11 +33,6 @@
     <circle cx="358.898" cy="76.591" fill="url(#df)" opacity=".5" r="314" transform="matrix(.98829352 .15256446 -.15256446 .98829352 92.168725 -48.005229)"/>
 </svg>
 
-
-![Alt text](./ambient.svg)
-<img src="./ambient.svg">
-
-
 <!--
 **magnushc/magnushc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
