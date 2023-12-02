@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Alt text](./ambient.svg)
+<img src="./ambient.svg">
+
+
 <!--
 **magnushc/magnushc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
